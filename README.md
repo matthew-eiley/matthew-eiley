@@ -1,19 +1,20 @@
-# 👋 Hi, I'm Matthew Eiley
+# Hi, I'm Matthew Eiley
 
-I'm a software engineering student and aspiring quantitative engineer passionate about building tools that sit at the intersection of code, math, and markets.
+I'm a software engineering student and aspiring quant passionate about building tools that sit at the intersection of code, math, and markets.
 
-## 🔬 What I’m Working On
+## What I’m Working On
 
-- 🧠 **Options Pricing Engine**  
-  A modular Python engine supporting Black-Scholes, Black-76, Garman-Kohlhagen, Kirk's Approximation, and Bjerksund-Stensland models for pricing European, American, FX, and spread options.  
-  [View Project →](https://github.com/matthew-eiley/OPTION-PRICING)
+- **Options Pricing Engine**  
+  A modular Python engine supporting Black-Scholes, Black-76, Garman-Kohlhagen, Kirk's Approximation, and Bjerksund-Stensland models for pricing European, American, FX, and spread options.
+  [View Project &rarr;](https://github.com/matthew-eiley/OPTION-PRICING)
 
-- 📈 **Quantitative Trading Algorithms**  
+- **Quantitative Trading Algorithms**  
   I develop systematic trading strategies—from momentum-based equity rotation to fully automated signal-driven systems. My focus is on data-driven logic, backtesting reliability, and clean execution architecture.
+  [View Project &rarr;](https://github.com/matthew-eiley/)
 
-- 📄 **LaTeX Without the Pain — ‘Sint’**  
-  I like writing long-form technical documents, but hate LaTeX syntax. So I built **Sint**—a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.  
-  [View Project →](https://github.com/matthew-eiley) *(repo coming soon if not linked)*
+- **LaTeX Without the Pain — ‘Sint’**  
+  I like writing long-form technical documents, but hate LaTeX syntax. So I built **Sint**—a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.
+  [View Project &rarr;](https://github.com/matthew-eiley/)
 
 ## 🛠 Languages & Tools
 
