@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Eiley
 
-I'm a software engineering student and aspiring quant passionate about building tools that sit at the intersection of code, math, and markets.
+I'm a software engineering student and aspiring quant who is passionate about building tools that sit at the intersection of code, math, and financial markets.
 
 ## What I’m Working On
 
