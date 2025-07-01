@@ -13,14 +13,21 @@ I'm a software engineering student and aspiring quant passionate about building 
   [View Project &rarr;](https://github.com/matthew-eiley/)
 
 - **LaTeX Without the Pain — ‘Sint’**  
-  I like writing long-form technical documents, but hate LaTeX syntax. So I built **Sint**—a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.
+  I like writing long-form technical documents, but hate LaTeX syntax. So I built Sint — a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.
   [View Project &rarr;](https://github.com/matthew-eiley/)
 
-## 🛠 Languages & Tools
+- **Hedge Fund Wesbite**  
+  Leading the development of the website for Martlet Fund McGill, a student-run hedge fund. The site will showcase fund strategy, member programs, published research, and alumni success.
+  [View Project &rarr;](https://github.com/matthew-eiley/MFM-MCGILL)
 
-- **Languages:** Python, C++, JavaScript, LaTeX  
-- **Libraries:** NumPy, pandas, SciPy, scikit-learn, TA-Lib  
-- **Tools:** Git, Jupyter, Streamlit, VS Code
+## Technical Skills and Interests
+
+- **Languages:** Python, C++, SQL, R, Java, C, C#, OCaml, Assembly, Bash, JavaScript, HTML, CSS, Swift, UML.
+- **Technologies:** RESTful APIs, PostgreSQL, Pandas, NumPy, SciPy, Matplotlib, Git, Linux, React Native.
+- **Skills:** Calculus I, II, III; Differential Equations, Linear Algebra, and Discrete Mathematics; Probability, Statistics,
+and Stochastic Processes; Data Structures and Algorithms; Data Science and Analytics; Data Modeling and
+Visualization; ETL/ELT Pipelines; Financial Engineering, Risk Management, and Optimization Techniques.
+- **Other Activities:** Soapmaking, Ironman training, Backgammon, Hiking, Reading, Meditation.
 
 ## 📚 Interests
 
