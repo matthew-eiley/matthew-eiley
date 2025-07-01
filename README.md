@@ -13,7 +13,7 @@ I'm a software engineering student and aspiring quant who is passionate about bu
   Though my implementation is private, view my portfolio's performance below:<br/>
   [View Performance &rarr;](https://streamlit.io/)
 
-- **LaTeX Without the Pain — ‘Sint’**  
+- **LaTeX Without the Pain**  
   I like writing long-form technical documents, but hate LaTeX syntax. So I built Sint — a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/SINT)
 
