@@ -28,20 +28,3 @@ I'm a software engineering student and aspiring quant passionate about building 
 and Stochastic Processes; Data Structures and Algorithms; Data Science and Analytics; Data Modeling and
 Visualization; ETL/ELT Pipelines; Financial Engineering, Risk Management, and Optimization Techniques.
 - **Other Activities:** Soapmaking, Ironman training, Backgammon, Hiking, Reading, Meditation.
-
-## 📚 Interests
-
-- Quantitative finance & algorithmic trading  
-- Mathematical modeling & optimization  
-- Software tooling for power users  
-- Writing and engineering elegant solutions to annoying problems
-
-## 📫 Let's Connect
-
-I'm always open to connecting with like-minded builders and quants. Feel free to reach out or follow my work here!
-
----
-
-<!-- Optionally add:
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-eiley&show_icons=true&theme=default)
--->
