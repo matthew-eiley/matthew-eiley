@@ -11,8 +11,12 @@ I'm a software engineering student and aspiring quant who is passionate about bu
 - **Quantitative Trading Algorithm**  
   Developed a quantitative trading algorithm that generates and executes trades based on systematic, data-driven signals and backtested performance.
   Though my implementation is private, view my portfolio's performance below:<br/>
-  [View Performance &rarr;](https://streamlit.io/)
+  [View Performance &rarr;](https://streamlit.io/)<br/>
 
+- **Health Analytics Dashboard**  
+  A personal health insights tool that pulls data from the WHOOP API to visualize recovery, sleep, strain, and HRV trends. Includes GitHub-style heatmaps and performance summaries to optimize training and rest.<br/>
+  [View Project &rarr;](https://github.com/matthew-eiley/HEALTH-MONITOR)
+  
 - **LaTeX Without the Pain**  
   I like writing long-form technical documents, but hate LaTeX syntax. So I built Sint — a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/SINT)
