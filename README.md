@@ -15,7 +15,7 @@ I'm a software engineering student and aspiring quant who is passionate about bu
 
 - **Health Analytics Dashboard**  
   A personal health insights tool that pulls data from the WHOOP API to visualize recovery, sleep, strain, and HRV trends. Includes GitHub-style heatmaps and performance summaries to optimize training and rest.<br/>
-  [View Project &rarr;](https://github.com/matthew-eiley/HEALTH-MONITOR)
+  [View Project &rarr;]((https://github.com/matthew-eiley/HEALTH-ANALYTICS))
   
 - **LaTeX Without the Pain**  
   I like writing long-form technical documents, but hate LaTeX syntax. So I built Sint — a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.<br/>
