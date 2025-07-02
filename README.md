@@ -1,7 +1,10 @@
 # Hi, I'm Matthew Eiley
+I'm a Software engineering student passionate about quantitative finance, data-driven systems, and building tools that solve real problems. I work at the intersection of math, code, and markets, with projects that span options pricing engines, algorithmic trading tools, custom interpreters, and physical health analytics. I'm always exploring new ways to find patterns in noisy data.
 
-I'm a software engineering student and aspiring quant who is passionate about building tools that sit at the intersection of code, math, and financial markets.<br/>
-[My Resume &rarr;](cv_mattheweiley.pdf) _(last updated June 2025)_
+I also make my own soap.
+
+[View My Resume &rarr;](cv_mattheweiley.pdf)<br/>
+_(last updated June 2025)_
 
 ## What I’m Working On
 
@@ -33,4 +36,4 @@ I'm a software engineering student and aspiring quant who is passionate about bu
 - **Skills:** Calculus I, II, III; Differential Equations, Linear Algebra, and Discrete Mathematics; Probability, Statistics,
 and Stochastic Processes; Data Structures and Algorithms; Data Science and Analytics; Data Modeling and
 Visualization; ETL/ELT Pipelines; Financial Engineering, Risk Management, and Optimization Techniques.
-- **Other Activities:** Soapmaking, Ironman training, Backgammon, Hiking, Reading, Meditation.
+- **Other Activities:** Soapmaking, Ironman training, A Song of Ice and Fire, Rubik’s cube, Hiking, Meditation.
