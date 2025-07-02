@@ -4,6 +4,7 @@ I'm a Software engineering student passionate about quantitative finance, data-d
 I also make my own soap.
 
 [View My Resume &rarr;](cv_mattheweiley.pdf)<br/>
+<a href="cv_mattheweiley.pdf" target="_blank">View My Resume &rarr;</a><br/>
 _(last updated June 2025)_
 
 ## What I’m Working On
