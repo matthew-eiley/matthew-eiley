@@ -4,6 +4,7 @@ I'm a Software engineering student passionate about quantitative finance, data-d
 I also make my own soap.
 
 [View My Resume &rarr;](https://github.com/matthew-eiley/matthew-eiley/blob/main/cv_mattheweiley.pdf)<br/>
+<a href="[path/to/your/document.pdf](https://github.com/matthew-eiley/matthew-eiley/blob/main/cv_mattheweiley.pdf)" download="cv_mattheweiley.pdf">Download Document</a>
 _(last updated June 2025)_
 
 ## What I’m Working On
