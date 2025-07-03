@@ -18,7 +18,7 @@ _(last updated June 2025)_
   [View Performance &rarr;](https://streamlit.io/)<br/>
 
 - **Health Analytics Dashboard**  
-  A personal health insights tool that pulls data from the [WHOOP API](https://www.whoop.com/ca/en/) to visualize recovery, sleep, strain, and HRV trends. Includes GitHub-style heatmaps and performance summaries to optimize training and rest.<br/>
+  A personal health insights tool that pulls data from my [WHOOP](https://www.whoop.com/ca/en/) to visualize recovery, sleep, strain, and HRV trends. Includes GitHub-style heatmaps and performance summaries to optimize training and rest.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/HEALTH-ANALYTICS)
   
 - **LaTeX Without the Pain**  
