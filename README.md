@@ -22,7 +22,7 @@ _(last updated June 2025)_
   [View Project &rarr;](https://github.com/matthew-eiley/HEALTH-ANALYTICS)
   
 - **LaTeX Without the Pain**  
-  I like writing long-form technical documents, but hate LaTeX syntax. So I built Sint — a simplified markup language and Python interpreter that compiles intuitive syntax into professional LaTeX.<br/>
+  I like writing long-form technical documents, but hate LaTeX syntax. So I built SINT (Simple and Intuitive Notation for Technical Writing) — a markup language and Python interpreter that compiles more natural syntax into professional LaTeX.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/SINT)
 
 - **Hedge Fund Wesbite**  
