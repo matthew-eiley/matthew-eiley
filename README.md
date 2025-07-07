@@ -20,7 +20,12 @@ _(last updated July 2025)_
 - **Health Analytics Dashboard**  
   A personal health insights tool that pulls data from my [WHOOP](https://www.whoop.com/ca/en/) to visualize recovery, sleep, strain, and HRV trends. Includes GitHub-style heatmaps and performance summaries to optimize training and rest.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/HEALTH-ANALYTICS)
-  
+
+- **Tax Optimization Engine for Canadians**  
+  A Python-based engine that analyzes client financial profiles and applies advanced Canadian tax planning strategies using over 250 RBC advisory documents. Supports optimization across RRSPs, dividends, corporate structuring, estate planning, charitable giving, trusts, and more. Designed to reduce tax liability and generate customized planning insights for high-net-worth individuals and family office clients.
+Though my implementation is private, view a demo of the platform below:<br/>
+  [View Demo &rarr;](https://streamlit.io/)<br/>
+
 - **LaTeX Without the Pain**  
   I like writing long-form technical documents, but hate LaTeX syntax. So I built SINT (Simple and Intuitive Notation for Technical Writing), a markup language and Python interpreter that compiles more natural syntax into professional LaTeX.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/SINT)
