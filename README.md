@@ -1,5 +1,5 @@
 # Hi, I'm Matthew Eiley
-I'm a Software engineering student passionate about quantitative finance, data-driven systems, and building tools that solve real problems. I work at the intersection of math, code, and markets, with projects that span options pricing engines, algorithmic trading tools, custom interpreters, and physical health analytics. I'm always exploring new ways to find patterns in noisy data.
+I'm a Software engineering student passionate about quantitative finance, data-driven systems, and building tools that solve real problems. I work at the intersection of math, code, and markets, with projects that span finance, mathematics, physical health, and more. I'm always exploring new ways to find patterns in noisy data.
 
 I also make my own soap.
 
