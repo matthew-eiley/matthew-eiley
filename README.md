@@ -8,23 +8,27 @@ _(last updated July 2025)_
 
 ## What I’m Working On
 
-- **Options Pricing Engine**  
-  A modular Python engine supporting Black-Scholes, Black-76, Garman-Kohlhagen, Kirk's Approximation, and Bjerksund-Stensland models for pricing European, American, FX, and spread options.<br/>
-  [View Project &rarr;](https://github.com/matthew-eiley/OPTION-PRICING)
-
 - **Quantitative Trading Algorithm**  
   Developed a quantitative trading algorithm that generates and executes trades based on systematic, data-driven signals and backtested performance.
   Though my implementation is private, view my portfolio's performance below:<br/>
   [View Performance &rarr;](https://streamlit.io/)<br/>
 
+- **Options Pricing Engine**  
+  A modular Python engine supporting Black-Scholes, Black-76, Garman-Kohlhagen, Kirk's Approximation, and Bjerksund-Stensland models for pricing European, American, FX, and spread options.<br/>
+  [View Project &rarr;](https://github.com/matthew-eiley/OPTION-PRICING)
+
+- **Tax Optimization AI Engine for Canadians**  
+  A Python-based AI engine that analyzes client profiles and applies advanced Canadian tax strategies using RBC, CRA, and Revenu Québec sources. Generates personalized, advisor-ready reports and creates a custom-trained AI chatbot per client to deliver proactive, tailored planning insights for individuals and family offices.
+Though my implementation is private, view a demo of the platform below:<br/>
+  [View Demo &rarr;](https://streamlit.io/)<br/>
+
 - **Health Analytics Dashboard**  
   A personal health insights tool that pulls data from my [WHOOP](https://www.whoop.com/ca/en/) to visualize recovery, sleep, strain, and HRV trends. Includes GitHub-style heatmaps and performance summaries to optimize training and rest.<br/>
   [View Project &rarr;](https://github.com/matthew-eiley/HEALTH-ANALYTICS)
 
-- **Tax Optimization Engine for Canadians**  
-  A Python-based engine that analyzes client financial profiles and applies advanced Canadian tax planning strategies using over 250 RBC advisory documents. Supports optimization across RRSPs, dividends, corporate structuring, estate planning, charitable giving, trusts, and more. Designed to reduce tax liability and generate customized planning insights for high-net-worth individuals and family office clients.
-Though my implementation is private, view a demo of the platform below:<br/>
-  [View Demo &rarr;](https://streamlit.io/)<br/>
+- **Zetamac-Style Arithmetic Game**
+  A Python-based app that allows users to play a Zetamac-style mental math game. Uses a modular logic engine to parse and solve each question type (addition, subtraction, multiplication, division) and tracks historical game records, recording user's scores and rankings to simulate and test mathematical performance under timed pressure.<br/>
+  [View Project &rarr;](https://github.com/matthew-eiley/SINT)
 
 - **LaTeX Without the Pain**  
   I like writing long-form technical documents, but hate LaTeX syntax. So I built SINT (Simple and Intuitive Notation for Technical Writing), a markup language and Python interpreter that compiles more natural syntax into professional LaTeX.<br/>
