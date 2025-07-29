@@ -28,7 +28,7 @@ Though my implementation is private, view a demo of the platform below:<br/>
 
 - **Zetamac-Style Arithmetic Game**
   A Python-based app that allows users to play a Zetamac-style mental math game. Uses a modular logic engine to parse and solve each question type (addition, subtraction, multiplication, division) and tracks historical game records, recording user's scores and rankings to simulate and test mathematical performance under timed pressure.<br/>
-  [View Project &rarr;](https://github.com/matthew-eiley/SINT)
+  [View Project &rarr;](https://github.com/matthew-eiley/ZETAMAC)
 
 - **LaTeX Without the Pain**  
   I like writing long-form technical documents, but hate LaTeX syntax. So I built SINT (Simple and Intuitive Notation for Technical Writing), a markup language and Python interpreter that compiles more natural syntax into professional LaTeX.<br/>
